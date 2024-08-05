@@ -1,4 +1,5 @@
-![final](https://github.com/user-attachments/assets/99e4ca33-fd59-47cf-b8fe-04b525bf421b)
+
+![final2](https://github.com/user-attachments/assets/df3f6e61-2d0c-4021-864c-cc032bf64b73)
 
 ### This is [FREE](https://forum.cfx.re/t/esx-advanced-scoreboard/5256420) version of [[ESX] Advanced Scoreboard](https://forum.cfx.re/t/esx-advanced-scoreboard/5256420)
 **Introducing Scoreboard by Nevera Development!**
