@@ -3,7 +3,6 @@ ESX = exports["es_extended"]:getSharedObject()
 RegisterNetEvent("nv_advanced_scoreboard:server:playerList")
 AddEventHandler("nv_advanced_scoreboard:server:playerList",function()
 	local src = source
-	print()
 	local nuiData = {type="playerlist",data=get_player_list()}
 	TriggerClientEvent("nv_advanced_scoreboard:client:update_nui",src,nuiData)
 end)
