@@ -18,7 +18,6 @@ client_scripts {
 files {
     'html/index.html',
     'html/assets/js/**',
-    'html/assets/css/**',
-    'html/assets/img/**'
+    'html/assets/css/**'
 }
 ui_page 'html/index.html'
